@@ -1,2 +1,2 @@
-# Technicaltest-result-Turbolap
+# Technicaltest-result-Turbolab
 Turbo lab coding test answers
